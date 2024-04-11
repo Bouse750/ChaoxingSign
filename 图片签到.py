@@ -1,3 +1,7 @@
+#https://mobilelearn.chaoxing.com/page/sign/endSign?courseId=221743027&classId=52211563&activeId=3000091948737&fid=0&cpi=214387887&showOnScreenShare=true
+#查看答到详情，找张图拍一下
+
+
 import json
 import requests
 import re
@@ -27,3 +31,4 @@ def upload(cookies):  # 上传图片
         
 
     
+
